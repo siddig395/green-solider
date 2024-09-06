@@ -15,10 +15,10 @@ This project is a dual-component system comprising a 2D Shooter Game and a Level
 
 ## Project Objects
 1 - To develop a 2D shooter game that engages users with interactive combat mechanics.
-2- To provide a flexible level editor that empowers users to create or modify game levels.
-3- To demonstrate the application of Pygame in game development for interactive experiences.
-4- To integrate user inputs and actions into a cohesive gameplay experience with clear control dynamics.
-5- To enhance user creativity by allowing them to design levels with varying difficulties and artistic styles.
+\2- To provide a flexible level editor that empowers users to create or modify game levels.
+\3- To demonstrate the application of Pygame in game development for interactive experiences.
+\4- To integrate user inputs and actions into a cohesive gameplay experience with clear control dynamics.
+\5- To enhance user creativity by allowing them to design levels with varying difficulties and artistic styles.
 
 ## Requirments
 - Python3
