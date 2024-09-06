@@ -18,7 +18,7 @@ This project is a dual-component system comprising a 2D Shooter Game and a Level
  - To provide a flexible level editor that empowers users to create or modify game levels.
  - To demonstrate the application of Pygame in game development for interactive experiences.
  - To integrate user inputs and actions into a cohesive gameplay experience with clear control dynamics.
-\5- To enhance user creativity by allowing them to design levels with varying difficulties and artistic styles.
+ - To enhance user creativity by allowing them to design levels with varying difficulties and artistic styles.
 
 ## Requirments
 - Python3
